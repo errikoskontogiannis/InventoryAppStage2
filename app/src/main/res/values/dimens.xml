@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="no_dimen">0dp</dimen>
+
+    <dimen name="default_dimen">16dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="category_product_dimen">4dp</dimen>
+
+    <dimen name="category_quantity_dimen">4dp</dimen>
+
+    <dimen name="category_supplier_dimen">4dp</dimen>
+    <dimen name="get_started_dimen">8dp</dimen>
+    <dimen name="price_dimen">1dp</dimen>
+
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InventoryAppStage2</string>
+
+    <string name="action_insert_sample_product">Insert Sample Product</string>
+
+    <string name="action_delete_all_entries">Delete All Products</string>
+
+    <string name="empty_view_title_text">Bookstore Database Empty...</string>
+
+    <string name="empty_view_subtitle_text">Get Started By Adding A Product</string>
+
+    <string name="editor_activity_title_new_product">Add a Product</string>
+
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="editor_insert_product_successful">Product Saved</string>
+
+    <string name="editor_insert_product_failed">Error With Saving Product</string>
+
+    <string name="editor_update_product_successful">Product Updated</string>
+
+    <string name="editor_update_product_failed">Error With Updating Product</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard Your Changes And Quit Editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_product_successful">Product Deleted</string>
+
+    <string name="editor_delete_product_failed">Error With Deleting Product</string>
+
+    <string name="delete_dialog_msg">Delete this Product?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="category_product">Product</string>
+
+    <string name="category_supplier">Supplier</string>
+
+    <string name="category_quantity">Quantity</string>
+
+    <string name="hint_product_name">Product Name</string>
+
+    <string name="hint_product_price">10.99</string>
+
+    <string name="currency">$</string>
+
+    <string name="hint_product_quantity">10</string>
+
+    <string name="unit_product_quantity">pcs</string>
+
+    <string name="hint_supplier_name">Supplier Name</string>
+
+    <string name="hint_supplier_phone_number">+302283022256</string>
+
+    <string name="product_name_empty">Product Requires A Name</string>
+
+    <string name="price_empty">Product Requires A Price</string>
+
+    <string name="quantity_empty">Product Requires A Quantity</string>
+
+    <string name="cannot_subtract">Cannot Subtract Any Further</string>
+    <string name="order_more">ORDER MORE</string>
+    <string name="add">ADD</string>
+    <string name="subtract">SUBTRACT</string>
+</resources>
+
